@@ -15,7 +15,7 @@
 > <img src="/img/img8.png" width="80%" height="50%" title="방구석 " alt="8"></img>
 
 ### 3. 디자인
-> <img src="/img/img9.png" width="80%" height="50%" title="방구석 " alt="9"></img>
-> <img src="/img/img10.png" width="80%" height="50%" title="방구석 " alt="10"></img>
-> <img src="/img/img11.png" width="80%" height="50%" title="방구석 " alt="11"></img>
-> <img src="/img/img12.png" width="80%" height="50%" title="방구석 " alt="12"></img>
+> <img src="/img/img9.png" width="30%" height="30%" title="방구석 " alt="9"></img>
+> <img src="/img/img10.png" width="30%" height="30%" title="방구석 " alt="10"></img>
+> <img src="/img/img11.png" width="30%" height="30%" title="방구석 " alt="11"></img>
+> <img src="/img/img12.png" width="30%" height="30%" title="방구석 " alt="12"></img>
