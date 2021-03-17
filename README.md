@@ -7,7 +7,15 @@
 > <img src="/img/img2.png" width="80%" height="50%" title="채팅 " alt="2"></img>
 
 ### 3. 클래스 기능
-> <img src="/karaoke/img3.png" width="80%" height="50%" title="방구석 " alt="3"></img>
-> <img src="/karaoke/img4.png" width="80%" height="50%" title="방구석 " alt="4"></img>
-> <img src="/karaoke/img5.png" width="80%" height="50%" title="방구석 " alt="5"></img>
-> <img src="/karaoke/img6.png" width="80%" height="50%" title="방구석 " alt="6"></img>
+> <img src="/img/img3.png" width="80%" height="50%" title="방구석 " alt="3"></img>
+> <img src="/img/img4.png" width="80%" height="50%" title="방구석 " alt="4"></img>
+> <img src="/img/img5.png" width="80%" height="50%" title="방구석 " alt="5"></img>
+> <img src="/img/img6.png" width="80%" height="50%" title="방구석 " alt="6"></img>
+> <img src="/img/img7.png" width="80%" height="50%" title="방구석 " alt="7"></img>
+> <img src="/img/img8.png" width="80%" height="50%" title="방구석 " alt="8"></img>
+
+### 3. 디자인
+> <img src="/img/img9.png" width="80%" height="50%" title="방구석 " alt="9"></img>
+> <img src="/img/img10.png" width="80%" height="50%" title="방구석 " alt="10"></img>
+> <img src="/img/img11.png" width="80%" height="50%" title="방구석 " alt="11"></img>
+> <img src="/img/img12.png" width="80%" height="50%" title="방구석 " alt="12"></img>
